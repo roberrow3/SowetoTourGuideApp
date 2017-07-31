@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "336910971607",
+    "firebase_url": "https://sowetotourguideapp.firebaseio.com",
+    "project_id": "sowetotourguideapp",
+    "storage_bucket": "sowetotourguideapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:336910971607:android:2bdb925c20673ea2",
+        "android_client_info": {
+          "package_name": "com.example.admin.sowetotourguideapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "336910971607-dj8s1k2g4p1c5c6lfer06oitm4tnplum.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.admin.sowetotourguideapp",
+            "certificate_hash": "4118230706cb52742a78c19686457b775aba20df"
+          }
+        },
+        {
+          "client_id": "336910971607-rltertkbj91bbq7so776rm0lbvb5jehk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1urX9Oco4Gib2uXn4_inD9GaIp2CSFa0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "336910971607-rltertkbj91bbq7so776rm0lbvb5jehk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
